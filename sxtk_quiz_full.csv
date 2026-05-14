@@ -1,0 +1,146 @@
+﻿Question,A,B,C,D,Answer
+"Phần 1 - Câu 1. Một lớp học có 10 bạn học sinh, trong đó có 4 bạn nam. Giáo viên muốn chọn ra 3 học sinh để đi thi học sinh giỏi. Hỏi có bao nhiêu cách chọn?",120,60,210,180,A
+Phần 1 - Câu 2. Một cửa hàng có 8 loại cà phê khác nhau. Chủ quán muốn chọn ra 3 loại cà phê để thử nghiệm bán trong tuần tới. Hỏi có bao nhiêu cách chọn?,56,336,84,120,A
+"Phần 1 - Câu 3. Một đội bóng gồm 15 cầu thủ. Huấn luyện viên cần sắp xếp 3 cầu thủ vào vị trí tiền đạo, tiền vệ và hậu vệ (khác nhau). Hỏi có bao nhiêu cách sắp xếp?",2730,455,273,3150,A
+"Phần 1 - Câu 4. Một nhóm bạn có 6 người, muốn chụp ảnh theo hàng ngang với 4 người một lượt. Hỏi có bao nhiêu cách sắp xếp 4 người đó?",360,120,720,24,A
+"Phần 1 - Câu 5. Một giáo viên có 12 đề thi khác nhau, muốn chọn ngẫu nhiên 2 đề để làm bài kiểm tra giữa kỳ. Hỏi có bao nhiêu cách chọn 2 đề?",66,132,24,144,A
+"Phần 1 - Câu 6. Một hộp có 5 viên bi đỏ, 3 viên bi xanh, 2 viên bi vàng. Lấy ngẫu nhiên 1 viên. Xác suất lấy được bi xanh là:",1/3,3/10,2/5,1/2,B
+"Phần 1 - Câu 7. Một thùng chứa 6 lon nước cam, 4 lon nước chanh và 10 lon nước suối. Lấy ngẫu nhiên 1 lon. Xác suất chọn được nước suối là:",1/2,5/10,1/3,1/4,A
+Phần 1 - Câu 8. Một người quay bánh xe số gồm 8 phần bằng nhau đánh số từ 1 đến 8. Xác suất quay được số chia hết cho 3 là:,1/4,3/8,1/3,2/5,A
+Phần 1 - Câu 9. Một bộ bài Tây 52 lá được xào đều. Lấy ngẫu nhiên 1 lá. Xác suất để rút được quân cơ là:,1/4,1/13,1/2,4/13,A
+"Phần 1 - Câu 10. Một giỏ trái cây có 3 quả táo, 5 quả cam, và 2 quả lê. Lấy ngẫu nhiên 1 quả. Xác suất lấy được quả táo hoặc quả lê là:",1/2,3/10,5/10,1/5,A
+Phần 1 - Câu 11. Một con xúc xắc 6 mặt được tung 1 lần. Xác suất để số hiện ra là số nguyên tố là:,1/2,2/3,1/3,4/6,A
+Phần 1 - Câu 12. Một túi có 7 viên bi được đánh số từ 1 đến 7. Lấy ngẫu nhiên 1 viên. Xác suất lấy được số lẻ là:,3/7,1/2,4/7,5/7,C
+Phần 1 - Câu 13. Một nhóm có 5 sinh viên nam và 3 sinh viên nữ. Chọn ngẫu nhiên 1 người để làm đại diện. Xác suất người đó là nữ là:,3/8,1/2,5/8,1/3,A
+"Phần 1 - Câu 14. Một máy in có xác suất in sai 1 trang là 0.02. In 1 trang ngẫu nhiên, xác suất để không bị lỗi là:",0.98,0.02,0.2,0.8,A
+"Phần 1 - Câu 15. Một công ty có 4 phòng ban: Hành chính, Kỹ thuật, Kế toán, Kinh doanh. Chọn ngẫu nhiên 1 phòng để tổ chức sự kiện. Xác suất chọn phòng Kế toán là:",1/4,1/3,1/2,2/5,A
+"Phần 1 - Câu 16. Trong một lớp học có 30 sinh viên, trong đó có 18 bạn biết lập trình Python, 10 bạn biết lập trình Java và 5 bạn biết cả hai. Chọn ngẫu nhiên 1 bạn biết Python. Xác suất bạn đó cũng biết Java là:",1/6,5/18,5/10,5/30,B
+"Phần 1 - Câu 17. Trong một công ty có 100 nhân viên, 60 người uống cà phê buổi sáng, trong số đó có 20 người đi làm trễ. Xác suất một người đi làm trễ biết rằng họ uống cà phê là:",1/3,1/5,20/60,2/5,A
+"Phần 1 - Câu 18. Một lô hàng có 90 sản phẩm, trong đó có 15 sản phẩm bị lỗi. Nếu một sản phẩm được kiểm tra và biết là không bị lỗi, xác suất nó thuộc lô A (có 50 sản phẩm, 5 lỗi) là:",45/75,50/90,45/85,50/75,A
+"Phần 1 - Câu 19. Một túi có 3 bi đỏ và 2 bi xanh. Lấy ngẫu nhiên một viên, không hoàn lại, rồi lấy viên thứ hai. Xác suất viên thứ hai là đỏ nếu viên đầu là đỏ:",2/4,3/5,2/5,1/2,A
+"Phần 1 - Câu 20. Một lớp có 12 học sinh nam và 8 học sinh nữ. Chọn ngẫu nhiên một học sinh, biết rằng người được chọn là nữ. Xác suất người đó đeo kính (biết rằng có 5 nữ đeo kính) là:",5/8,5/20,1/4,5/12,A
+"Phần 1 - Câu 21. Một người có 70% khả năng đến lớp đúng giờ nếu thời tiết tốt, và 30% nếu trời mưa. Biết rằng hôm nay trời tốt, xác suất người đó đến đúng giờ là:",0.7,0.3,0.5,0.9,A
+"Phần 1 - Câu 22. Một bệnh viện cho biết 60% bệnh nhân là nữ, và trong số đó có 40% bị sốt. Xác suất một bệnh nhân bị sốt biết rằng đó là nữ là:",0.24,0.4,0.6,0.3,B
+"Phần 1 - Câu 23. Trong kỳ thi tin học, 80% sinh viên đạt điểm qua môn. Trong số sinh viên đạt, có 25% đạt điểm cao (trên 8). Xác suất một sinh viên đạt điểm cao biết rằng họ đã qua môn là:",0.25,0.2,0.3,0.4,A
+"Phần 1 - Câu 24. Một công ty sản xuất hai loại linh kiện: loại A (chiếm 70%) và loại B (30%). Tỷ lệ hỏng ở A là 4%, ở B là 10%. Biết rằng một linh kiện không bị hỏng, xác suất nó thuộc loại A là:",0.8,0.7,0.5,0.66,B
+"Phần 1 - Câu 25. Một nhân viên làm việc tại 2 dự án: Dự án X và Dự án Y. Xác suất được chọn vào Dự án X là 0.6. Nếu được chọn vào X, xác suất hoàn thành công việc đúng hạn là 0.9. Xác suất hoàn thành đúng hạn biết rằng đã được chọn vào X là:",0.9,0.6,0.54,0.45,A
+Phần 1 - Câu 26. Xác suất một người đến đúng giờ là 0.8. Xác suất người đó không đến đúng giờ là:,0.2,0.8,1.2,0.5,A
+"Phần 1 - Câu 27. Xác suất một nhân viên hoàn thành dự án A là 0.6, hoàn thành dự án B là 0.5 và cả hai là 0.3. Xác suất người đó hoàn thành ít nhất một dự án là:",0.9,0.8,0.7,0.6,B
+Phần 1 - Câu 28. Xác suất một máy hoạt động đúng trong ngày là 0.95. Xác suất trong 2 ngày liên tiếp máy đều hoạt động đúng là:,0.9025,0.90,0.95,0.89,A
+"Phần 1 - Câu 29. Xác suất trúng thưởng khi mua 1 vé số là 1/100. Nếu mua 3 vé (các vé độc lập), xác suất không trúng vé nào là:",0.97,0.99,0.970299,0.03,C
+"Phần 1 - Câu 30. Một sinh viên có xác suất đến lớp thứ Hai là 0.7, thứ Ba là 0.8. Xác suất bạn ấy đến lớp cả hai ngày là 0.56. Hai biến cố có độc lập không?",Có,Không,Không xác định,Tùy tình huống,A
+"Phần 1 - Câu 31. Xác suất một người bị cảm cúm là 0.1. Nếu người đó bị cảm, xác suất ho là 0.8. Xác suất một người vừa cảm cúm vừa ho là:",0.08,0.9,0.18,0.72,A
+Phần 1 - Câu 32. Xác suất một email là thư rác là 0.3. Xác suất một email không phải thư rác là:,0.3,0.5,0.7,1.3,C
+Phần 1 - Câu 33. Xác suất một học sinh làm bài đúng là 0.6. Xác suất học sinh đó làm sai ít nhất một bài trong 2 bài độc lập là:,0.84,0.64,0.36,0.6,B
+Phần 1 - Câu 34. Hai biến cố A và B độc lập với P(A) = 0.5 và P(B) = 0.4. Xác suất xảy ra cả A và B là:,0.9,0.4,0.2,0.6,C
+"Phần 1 - Câu 35. Xác suất sinh viên đạt điểm A trong môn Toán là 0.3, môn Lý là 0.4 và cả hai là 0.15. Xác suất sinh viên đó không đạt điểm A môn nào là:",0.55,0.7,0.45,0.6,C
+"Phần 1 - Câu 36. Một bệnh viện có 60% bệnh nhân đến từ khu A và 40% từ khu B. Tỷ lệ bệnh nhân khu A mắc tiểu đường là 20%, còn khu B là 10%. Xác suất chọn ngẫu nhiên một bệnh nhân và người đó mắc tiểu đường là:",0.14,0.18,0.20,0.24,A
+"Phần 1 - Câu 37. Một loại thuốc có 3 nhà sản xuất: A (30%), B (50%), C (20%). Tỷ lệ gây tác dụng phụ là 5% (A), 3% (B), 8% (C). Xác suất chọn ngẫu nhiên một viên thuốc gây tác dụng phụ là:",0.05,0.045,0.048,0.06,C
+"Phần 1 - Câu 38. Có 2 phòng khám: Phòng A điều trị 70% bệnh nhân, phòng B điều trị 30%. Tỷ lệ khỏi bệnh của phòng A là 90%, phòng B là 80%. Xác suất một bệnh nhân khỏi bệnh là:",0.87,0.86,0.88,0.85,A
+"Phần 1 - Câu 39. Một xét nghiệm chẩn đoán bệnh có độ nhạy 95%, độ đặc hiệu 90%. Trong dân số, tỷ lệ mắc bệnh là 2%. Xác suất một người được xét nghiệm cho kết quả dương tính là:",0.025,0.113,0.098,0.117,D
+"Phần 1 - Câu 40. Có 3 bệnh viện: A (50%), B (30%), C (20%) tiếp nhận bệnh nhân sốt xuất huyết. Tỷ lệ điều trị khỏi là: A – 95%, B – 90%, C – 80%. Xác suất một bệnh nhân sốt xuất huyết được chữa khỏi là:",0.915,0.9,0.85,0.925,B
+"Phần 1 - Câu 41. Một loại thuốc điều trị COVID có 2 loại: viên nén (70%), dung dịch (30%). Viên nén có hiệu quả 85%, dung dịch là 75%. Xác suất một bệnh nhân dùng thuốc và có hiệu quả là:",0.82,0.81,0.83,0.80,A
+"Phần 1 - Câu 42. Có 40% bệnh nhân đến từ khu vực đô thị, 60% từ nông thôn. Tỷ lệ tiêm ngừa cúm lần lượt là 80% (đô thị), 60% (nông thôn). Xác suất một bệnh nhân đã được tiêm ngừa cúm là:",0.68,0.70,0.64,0.66,A
+"Phần 1 - Câu 43. Một xét nghiệm ung thư có độ nhạy 92%, độ đặc hiệu 85%. Tỷ lệ mắc ung thư là 1%. Xác suất kết quả dương tính là:",0.14,0.092,0.154,0.0875,C
+"Phần 1 - Câu 44. Một loại thuốc được cung cấp từ 2 nguồn: nội địa (60%), nhập khẩu (40%). Tỷ lệ thuốc nội địa đạt chuẩn là 95%, thuốc nhập khẩu là 98%. Xác suất lấy ngẫu nhiên 1 viên đạt chuẩn là:",0.97,0.965,0.96,0.955,B
+"Phần 1 - Câu 45. Bệnh viện thống kê rằng 70% bác sĩ trực đêm là nam, 30% là nữ. Trong đó, 60% nam hoàn thành đầy đủ hồ sơ bệnh án, nữ là 90%. Xác suất hồ sơ bệnh án được hoàn thành khi chọn ngẫu nhiên một bác sĩ là:",0.69,0.72,0.75,0.66,A
+"Phần 2 - Câu 1. Một bệnh viện có 8 bác sĩ, cần chọn ra 3 người để trực đêm. Hỏi có bao nhiêu cách chọn?",336,56,168,84,B
+"Phần 2 - Câu 2. Một nhóm nghiên cứu có 10 dược sĩ, cần chọn ra một nhóm gồm 4 người để thử nghiệm thuốc mới. Hỏi có bao nhiêu cách chọn?",210,5040,120,252,A
+"Phần 2 - Câu 3. Có 6 mẫu máu khác nhau, cần xét nghiệm theo thứ tự. Hỏi có bao nhiêu cách sắp xếp 3 mẫu để xét nghiệm?",120,60,6,24,A
+"Phần 2 - Câu 4. Một công ty dược có 5 loại thuốc thử nghiệm, muốn chọn 2 loại để trình bày theo thứ tự ưu tiên. Có bao nhiêu cách chọn?",10,20,5,15,B
+Phần 2 - Câu 5. Một bệnh viện cần phân công 4 điều dưỡng cho 4 ca trực đêm khác nhau. Hỏi có bao nhiêu cách phân công?,16,24,20,12,B
+"Phần 2 - Câu 6. Một lô vaccine gồm 100 lọ, trong đó có 5 lọ bị lỗi. Lấy ngẫu nhiên 1 lọ. Xác suất lấy được lọ lỗi là:",0.05,0.1,0.95,0.005,A
+Phần 2 - Câu 7. Một bác sĩ có 4 bệnh án đúng và 1 bệnh án sai. Chọn ngẫu nhiên 1 bệnh án. Xác suất chọn được bệnh án sai là:,0.2,0.25,0.1,0.5,A
+"Phần 2 - Câu 8. Một hộp thuốc chứa 3 viên đỏ, 2 viên xanh và 5 viên vàng. Lấy ngẫu nhiên 1 viên. Xác suất lấy được viên xanh là:",0.2,0.25,0.3,0.5,A
+"Phần 2 - Câu 9. Có 15 bệnh nhân, trong đó 5 người bị cao huyết áp. Chọn ngẫu nhiên 1 người. Xác suất người đó bị cao huyết áp là:",1/3,2/3,1/5,3/5,A
+Phần 2 - Câu 10. Một bệnh viện có 12 bác sĩ nam và 8 bác sĩ nữ. Chọn ngẫu nhiên 1 người. Xác suất chọn được bác sĩ nữ là:,0.6,0.4,0.5,0.8,B
+"Phần 2 - Câu 11. Một lọ thuốc chứa 10 viên, trong đó có 2 viên giả. Chọn 1 viên. Xác suất chọn viên thật là:",0.8,0.9,0.7,0.6,A
+"Phần 2 - Câu 12. Trong 1 ngày có 100 ca khám, xác suất để bệnh nhân đến đúng giờ là 0.75. Hỏi xác suất một bệnh nhân đến trễ là:",0.25,0.5,0.75,0.1,A
+Phần 2 - Câu 13. Một loại thuốc có tỉ lệ gây tác dụng phụ là 3%. Lấy ngẫu nhiên 1 bệnh nhân dùng thuốc. Xác suất không có tác dụng phụ là:,0.97,0.93,0.3,0.7,A
+"Phần 2 - Câu 14. Có 4 loại thuốc A, B, C, D được lựa chọn ngẫu nhiên để kê toa. Xác suất chọn thuốc B là:",0.25,0.5,0.75,0.2,A
+Phần 2 - Câu 15. Một xét nghiệm máu cho kết quả dương tính giả với xác suất 0.01. Xác suất không bị dương tính giả là:,0.99,0.1,0.9,0.98,A
+"Phần 2 - Câu 16. Biết 70% bệnh nhân tiêm vaccine A không mắc bệnh. Trong số 100 người tiêm vaccine A, có 30 người vẫn mắc. Tính xác suất mắc bệnh khi đã tiêm A.",0.3,0.2,0.1,0.4,A
+"Phần 2 - Câu 17. Trong số bệnh nhân bị tiểu đường, 60% có biến chứng. Nếu chọn một người có tiểu đường, xác suất họ có biến chứng là:",0.6,0.4,0.3,0.2,A
+"Phần 2 - Câu 18. 90% thuốc A có tác dụng, 10% không. Nếu bệnh nhân khỏi sau khi dùng thuốc, xác suất thuốc có tác dụng là:",0.9,0.1,0.5,0.8,A
+"Phần 2 - Câu 19. 40% số ca cấp cứu xảy ra ban đêm, trong đó 60% là do tai nạn giao thông. Tính xác suất một ca cấp cứu ban đêm là tai nạn giao thông.",0.24,0.4,0.6,0.36,C
+"Phần 2 - Câu 20. 80% bác sĩ nội khoa biết xử lý sốc phản vệ. Chọn ngẫu nhiên một bác sĩ nội khoa, xác suất họ biết xử lý là:",0.8,0.6,0.9,0.7,A
+"Phần 2 - Câu 21. 70% mẫu máu được kiểm tra dương tính với vi khuẩn X. Trong số đó, 90% thật sự nhiễm khuẩn. Xác suất thật sự nhiễm khuẩn khi dương tính là:",0.9,0.63,0.7,0.81,A
+"Phần 2 - Câu 22. Một loại test cho kết quả đúng 95% nếu người đó nhiễm bệnh. Nếu đã nhiễm bệnh, xác suất test đúng là:",0.95,0.05,0.85,0.9,A
+Phần 2 - Câu 23. Nếu bệnh nhân uống thuốc đầy đủ thì xác suất khỏi bệnh là 0.85. Xác suất khỏi bệnh biết rằng bệnh nhân uống thuốc đầy đủ là:,0.85,0.15,0.9,0.8,A
+"Phần 2 - Câu 24. Một nghiên cứu cho thấy 30% người hút thuốc bị ung thư. Nếu biết một người hút thuốc, xác suất họ bị ung thư là:",0.3,0.7,0.5,0.1,A
+"Phần 2 - Câu 25. Trong 500 bệnh nhân tiêm vaccine, 10 người vẫn mắc bệnh. Xác suất một người mắc bệnh khi đã tiêm là:",0.02,0.05,0.1,0.08,A
+"Phần 2 - Câu 26. Một loại thuốc có xác suất gây buồn ngủ là 0.3, xác suất gây chóng mặt là 0.2, xác suất gây cả hai là 0.05. Tính xác suất gây buồn ngủ hoặc chóng mặt.",0.45,0.55,0.6,0.25,A
+"Phần 2 - Câu 27. Xác suất một bác sĩ trực ngày là 0.7, trực đêm là 0.4, trực cả hai là 0.2. Xác suất bác sĩ trực ít nhất một ca là:",0.9,0.7,1.1,0.8,A
+"Phần 2 - Câu 28. Xác suất một bệnh nhân bị ho là 0.5, bị sốt là 0.4, bị cả hai là 0.3. Tính xác suất bệnh nhân bị ho hoặc sốt.",0.6,0.7,0.9,0.5,A
+Phần 2 - Câu 29. Một người có 30% khả năng dị ứng với thuốc A và 20% với thuốc B. Biết rằng không có người nào dị ứng với cả hai. Tính xác suất người đó dị ứng với ít nhất một loại.,0.5,0.6,0.4,0.3,A
+Phần 2 - Câu 30. Một xét nghiệm đúng 95% khi bệnh nhân có bệnh và đúng 90% khi không bệnh. Tính xác suất cho kết quả sai bất kỳ.,0.1,0.05,0.15,Không xác định từ dữ liệu,D
+"Phần 2 - Câu 31. Xác suất một bệnh nhân nhiễm cúm là 0.1, xác suất nhiễm sởi là 0.05. Biết các sự kiện độc lập, xác suất bệnh nhân mắc cả hai là:",0.005,0.15,0.01,0.02,A
+"Phần 2 - Câu 32. Có 60% bệnh nhân dùng thuốc A, 30% dùng thuốc B. Nếu chọn ngẫu nhiên 1 bệnh nhân, xác suất người đó dùng A hoặc B là:",0.9,0.6,0.3,Không xác định (thiếu thông tin giao nhau),D
+Phần 2 - Câu 33. Một bệnh nhân có 80% khả năng khỏi bệnh nếu dùng đúng phác đồ và 60% nếu không đúng. Xác suất khỏi bệnh nếu không biết có theo đúng phác đồ không là:,Không xác định,0.7,1.4,0.2,A
+"Phần 2 - Câu 34. Trong một phòng khám, xác suất một bác sĩ đến muộn là 0.2 và xác suất một điều dưỡng đến muộn là 0.1. Giả sử độc lập, xác suất cả hai đến đúng giờ là:",0.72,0.8,0.9,0.88,A
+"Phần 2 - Câu 35. Hai sự kiện A và B độc lập với P(A)=0.4, P(B)=0.5. Tính xác suất A ∩ B.",0.2,0.9,0.5,0.4,A
+"Phần 2 - Câu 36. Có 60% bệnh nhân điều trị nội trú, 40% điều trị ngoại trú. Tỉ lệ hồi phục tương ứng là 80% và 60%. Xác suất chọn ngẫu nhiên 1 bệnh nhân hồi phục là:",0.72,0.7,0.6,0.68,A
+"Phần 2 - Câu 37. Một loại test cho kết quả dương tính đúng với xác suất 0.9 nếu có bệnh, 0.1 nếu không có bệnh. Nếu 20% dân số có bệnh, xác suất test dương là:",0.26,0.2,0.18,0.22,A
+"Phần 2 - Câu 38. Bệnh nhân có thể dùng 1 trong 3 loại kháng sinh A, B, C với xác suất tương ứng là 0.5, 0.3, 0.2. Xác suất khỏi bệnh là 0.9, 0.7, 0.8 theo thứ tự. Xác suất khỏi bệnh là:",0.83,0.82,0.85,0.79,B
+"Phần 2 - Câu 39. Bệnh viện có 30% bệnh nhân nhiễm virus A, 70% virus B. Tỉ lệ test dương tương ứng là 0.95 và 0.85. Xác suất test dương là:",0.88,0.865,0.9,0.875,A
+"Phần 2 - Câu 40. Một bệnh viện có 3 khoa: Nội (50%), Ngoại (30%), Sản (20%). Tỉ lệ có tai biến là 5%, 10%, 15%. Tính xác suất chọn ngẫu nhiên 1 bệnh nhân bị tai biến:",0.08,0.09,0.1,0.07,B
+"Phần 2 - Câu 41. Một loại thuốc có 70% người dùng đúng liều, 30% dùng sai. Tỉ lệ khỏi bệnh tương ứng là 90% và 40%. Xác suất khỏi bệnh bất kỳ là:",0.75,0.78,0.81,0.69,A
+"Phần 2 - Câu 42. Một nghiên cứu có 40% nữ, 60% nam. Tỉ lệ mắc bệnh tim tương ứng là 10% và 20%. Xác suất chọn ngẫu nhiên 1 người mắc bệnh tim là:",0.16,0.18,0.2,0.22,A
+"Phần 2 - Câu 43. Một loại test có tỉ lệ âm tính giả 5% ở nhóm có bệnh (30%), và âm tính đúng 95% ở nhóm không bệnh (70%). Xác suất test âm là:",0.68,0.715,0.71,0.72,A
+"Phần 2 - Câu 44. Một bệnh nhân có thể vào viện theo ba ca: sáng (40%), chiều (30%), tối (30%). Tỉ lệ hồi phục tương ứng là 0.8, 0.7, 0.6. Xác suất hồi phục là:",0.71,0.7,0.72,0.75,A
+"Phần 2 - Câu 45. Có ba nguồn cung cấp thuốc: A (50%), B (30%), C (20%) với tỉ lệ thuốc đạt chuẩn lần lượt là 90%, 80%, 70%. Xác suất lấy được thuốc đạt chuẩn là:",0.83,0.82,0.8,0.78,A
+Phần 2 - Câu 46. Bảng phân phối rời rạc số bệnh nhân tái khám trong tháng: Bảng: Số lần (X) | 0 | 1 | 2 | 3 / Xác suất | 0.2 | 0.4 | 0.3 | 0.1 Tính kỳ vọng số lần tái khám.,1.3,1.2,1.5,1.1,A
+"Phần 2 - Câu 47. Dùng bảng câu 46, tính phương sai.",0.66,0.7,0.5,0.8,D
+"Phần 2 - Câu 48. Dùng bảng câu 46, tính độ lệch chuẩn.",0.81,0.77,0.72,0.69,A
+Phần 2 - Câu 49. Bảng số liệu số ngày nằm viện (X) với xác suất: Bảng: X | 1 | 2 | 3 / P | 0.5 | 0.3 | 0.2 Tính kỳ vọng số ngày nằm viện.,1.7,2.0,1.5,1.8,A
+Phần 2 - Câu 50. Tính phương sai số ngày nằm viện từ bảng trên.,0.61,0.56,0.7,0.5,A
+"Phần 3 - Câu 1. Một phòng khám có 8 bác sĩ, trong đó có 3 bác sĩ chuyên về tim mạch. Hỏi có bao nhiêu cách chọn ra 2 bác sĩ bất kỳ để trực ca đêm?",56,28,21,36,B
+"Phần 3 - Câu 2. Một nhóm gồm 6 điều dưỡng. Hỏi có bao nhiêu cách sắp xếp họ ngồi vào 3 bàn khác nhau, mỗi bàn 1 người?",120,360,720,216,A
+Phần 3 - Câu 3. Trong kho thuốc có 12 hộp thuốc khác nhau. Một dược sĩ cần lấy 4 hộp để trưng bày. Hỏi có bao nhiêu cách chọn?,495,792,11880,3210,A
+Phần 3 - Câu 4. Có 10 bệnh nhân cần xét nghiệm. Bệnh viện chỉ làm được cho 5 người mỗi đợt. Hỏi có bao nhiêu cách chọn ra 5 bệnh nhân?,200,252,210,302,B
+"Phần 3 - Câu 5. Một cuộc họp gồm 7 y tá, cần chọn 3 người để phân công đi hỗ trợ khẩn cấp. Hỏi có bao nhiêu cách chọn và phân công theo thứ tự?",210,84,630,35,A
+Phần 3 - Câu 6. Một viên thuốc được đóng ngẫu nhiên từ 4 loại thành phần khác nhau. Hỏi xác suất để chọn được viên có đủ cả 4 thành phần là bao nhiêu (giả sử mỗi thành phần có xác suất bằng nhau)?,1/24,1/4,1/6,1/16,A
+"Phần 3 - Câu 7. Một bác sĩ có 5 hồ sơ bệnh án, trong đó có 2 hồ sơ ghi nhầm thông tin. Chọn ngẫu nhiên 1 hồ sơ, xác suất là hồ sơ đúng?",3/5,2/5,1/2,1/3,A
+"Phần 3 - Câu 8. Có 8 lọ vaccine, trong đó 6 lọ đạt chuẩn. Chọn ngẫu nhiên 1 lọ, xác suất chọn đúng lọ đạt chuẩn là:",0.75,0.80,0.70,0.85,A
+"Phần 3 - Câu 9. Một hộp thuốc chứa 10 viên, trong đó có 3 viên bị hư. Chọn 1 viên ngẫu nhiên. Xác suất viên thuốc tốt là:",0.6,0.5,0.7,0.8,C
+"Phần 3 - Câu 10. Một bệnh viện có 4 khu điều trị A, B, C, D. Bệnh nhân được phân về mỗi khu với xác suất bằng nhau. Xác suất 1 bệnh nhân vào khu A?",1/2,1/3,1/4,1/5,C
+Phần 3 - Câu 11. Một xét nghiệm có độ chính xác là 95%. Xác suất xét nghiệm cho kết quả đúng là:,0.90,0.85,0.95,1,C
+"Phần 3 - Câu 12. Một tủ thuốc có 20 hộp, trong đó có 5 hộp hết hạn. Chọn ngẫu nhiên 1 hộp, xác suất hộp còn hạn:",0.25,0.5,0.75,0.8,C
+"Phần 3 - Câu 13. Một nhóm gồm 10 người, trong đó có 4 người bị cảm. Chọn ngẫu nhiên 1 người, xác suất không bị cảm là:",0.4,0.6,0.7,0.8,B
+"Phần 3 - Câu 14. Một hộp chứa 3 viên vitamin A, 2 viên vitamin C. Chọn ngẫu nhiên 1 viên, xác suất chọn vitamin C?",2/5,1/3,3/5,1/5,A
+"Phần 3 - Câu 15. Một nhà thuốc có 15 sản phẩm, trong đó có 3 sản phẩm giả. Xác suất chọn được sản phẩm thật là:",4/5,3/5,12/15,1/5,A
+"Phần 3 - Câu 16. Trong số 100 bệnh nhân, có 60 người tiêm vaccine A, 40 người tiêm vaccine B. Trong số người tiêm A, có 48 người khỏi bệnh. Xác suất để 1 người được chọn ngẫu nhiên khỏi bệnh biết rằng họ tiêm A là:",0.6,0.8,0.5,0.9,B
+"Phần 3 - Câu 17. Có 70% bác sĩ tham gia hội thảo và 90% trong số đó được cấp chứng chỉ. Xác suất để 1 bác sĩ được chọn ngẫu nhiên có chứng chỉ, biết rằng họ đã tham gia là:",0.9,0.7,0.63,1,A
+"Phần 3 - Câu 18. Trong 200 bệnh nhân, có 50 người hút thuốc. Trong số này có 30 người bị viêm phổi. Tính xác suất để người hút thuốc bị viêm phổi.",0.6,0.5,0.3,0.15,A
+"Phần 3 - Câu 19. Có 100 bệnh nhân, 30 người bị tiểu đường, trong đó 24 người bị béo phì. Tính xác suất 1 người bị béo phì nếu biết họ bị tiểu đường.",0.6,0.8,0.9,0.75,B
+Phần 3 - Câu 20. Một bác sĩ chẩn đoán đúng bệnh 90% trường hợp. Tính xác suất bệnh nhân được chẩn đoán đúng biết rằng họ mắc bệnh.,0.95,0.85,0.9,1,C
+"Phần 3 - Câu 21. Có 2 loại thuốc A và B. 60% bệnh nhân dùng A, 40% dùng B. Trong số người dùng A, có 90% hồi phục; dùng B thì 80% hồi phục. Tính xác suất bệnh nhân hồi phục biết rằng họ dùng thuốc A.",0.6,0.9,0.8,0.5,B
+"Phần 3 - Câu 22. Trong số 50 người tiêm vaccine, có 45 người không bị sốt sau tiêm. Xác suất người không sốt biết rằng họ đã tiêm là:",0.5,0.8,0.9,1,C
+"Phần 3 - Câu 23. Một loại thuốc có 95% hiệu quả với người trẻ, và 70% với người già. Biết rằng người bệnh là người trẻ, xác suất thuốc có hiệu quả là:",0.7,0.8,0.95,1,C
+"Phần 3 - Câu 24. Có 40% bệnh nhân đến khám nội tiết, 60% đến khám tổng quát. Tỷ lệ xét nghiệm máu ở nhóm nội tiết là 90%. Tính xác suất người đi khám nội tiết có xét nghiệm máu.",0.9,0.5,0.6,0.36,A
+"Phần 3 - Câu 25. Trong 100 người, có 80 người uống vitamin, 50 người trong số đó có da đẹp. Tính xác suất da đẹp nếu biết người đó có uống vitamin.",0.5,0.6,0.75,0.8,B
+"Phần 3 - Câu 26. Xác suất 1 bệnh nhân đến khám có triệu chứng ho là 0.4, sốt là 0.5. Giả sử độc lập, xác suất họ có cả hai là:",0.2,0.9,0.6,0.25,A
+"Phần 3 - Câu 27. Xác suất bác sĩ A khám đúng là 0.9, bác sĩ B là 0.85. Cả hai cùng khám 1 bệnh nhân. Xác suất cả hai cùng chẩn đoán đúng:",0.765,0.8,0.95,0.6,A
+Phần 3 - Câu 28. Xác suất 1 nhân viên y tế rửa tay trước và sau ca trực là 0.95. Tính xác suất họ rửa tay cả hai lần:,0.9025,0.95,0.9,0.8,A
+"Phần 3 - Câu 29. Một bệnh nhân cần xét nghiệm 3 loại, mỗi loại có xác suất thành công là 0.9. Xác suất cả 3 thành công:",0.81,0.729,0.95,0.9,B
+"Phần 3 - Câu 30. Một test có xác suất âm tính giả là 0.1, dương tính giả là 0.05. Tính xác suất test cho kết quả chính xác:",0.85,0.95,0.9,0.75,A
+"Phần 3 - Câu 31. Bệnh viện có 3 phòng khám, mỗi phòng có xác suất tiếp nhận bệnh nhân là 0.8. Xác suất cả 3 đều tiếp nhận được bệnh nhân là:",0.512,0.64,0.72,0.8,A
+Phần 3 - Câu 32. Xác suất 1 loại thuốc gây tác dụng phụ là 0.2. Tính xác suất 3 người dùng đều không bị tác dụng phụ.,0.8,0.512,0.64,0.729,B
+Phần 3 - Câu 33. Một máy đo huyết áp có xác suất sai số là 0.1. Tính xác suất 2 lần đo liên tiếp đều chính xác.,0.81,0.9,0.99,0.95,A
+Phần 3 - Câu 34. Một điều dưỡng có xác suất quên đeo khẩu trang là 0.05. Tính xác suất trong 2 ca trực liên tiếp đều không quên.,0.9025,0.95,0.9975,0.997,A
+"Phần 3 - Câu 35. Xác suất thuốc A thành công là 0.7, thuốc B là 0.8. Bệnh nhân dùng cả hai. Xác suất thành công cả hai:",0.56,0.6,0.65,0.7,A
+"Phần 3 - Câu 36. Một bệnh nhân có 60% khả năng mắc bệnh A, 40% bệnh B. Nếu mắc bệnh A thì 90% hồi phục, bệnh B thì 80%. Tính xác suất bệnh nhân hồi phục.",0.54,0.86,0.84,0.87,B
+"Phần 3 - Câu 37. Có 3 phòng xét nghiệm: P1 (50%), P2 (30%), P3 (20%). Xác suất kết quả đúng là: P1 (0.9), P2 (0.8), P3 (0.95). Tính xác suất kết quả đúng bất kỳ.",0.885,0.9,0.86,0.88,D
+"Phần 3 - Câu 38. Một loại thuốc được sản xuất từ 3 nhà máy: A (40%), B (35%), C (25%). Tỷ lệ đạt chuẩn tương ứng là 90%, 85%, 80%. Tính xác suất chọn ngẫu nhiên thuốc đạt chuẩn.",0.85,0.865,0.88,0.84,B
+"Phần 3 - Câu 39. Trong 100 bệnh nhân: 70 đến từ thành phố, 30 từ nông thôn. Tỷ lệ khỏi bệnh: TP (80%), NT (60%). Tính xác suất chọn ngẫu nhiên 1 người khỏi bệnh.",0.7,0.74,0.68,0.72,B
+"Phần 3 - Câu 40. Có 3 bác sĩ khám bệnh: A (40%), B (30%), C (30%). Xác suất chẩn đoán đúng: A (95%), B (90%), C (85%). Tính xác suất chẩn đoán đúng.",0.9,0.915,0.92,0.93,A
+"Phần 3 - Câu 41. Một bệnh nhân có 3 lựa chọn điều trị: thuốc (60%), vật lý trị liệu (30%), kết hợp (10%). Tỷ lệ khỏi tương ứng là 70%, 60%, 90%. Tính xác suất khỏi bệnh.",0.72,0.69,0.74,0.75,B
+"Phần 3 - Câu 42. Có 4 khu vực tiêm chủng: A (25%), B (25%), C (30%), D (20%). Tỷ lệ có phản ứng phụ: A (10%), B (5%), C (15%), D (20%). Tính xác suất xảy ra phản ứng phụ.",0.12,0.125,0.13,0.135,B
+"Phần 3 - Câu 43. Một loại vắc xin có 3 lô sản xuất: L1 (50%), L2 (30%), L3 (20%). Tỷ lệ đạt chất lượng: L1 (95%), L2 (90%), L3 (85%). Tính xác suất lấy ngẫu nhiên 1 liều đạt chuẩn.",0.91,0.915,0.92,0.925,B
+"Phần 3 - Câu 44. Có 3 bệnh viện tiếp nhận bệnh nhân: A (40%), B (35%), C (25%). Xác suất điều trị thành công: A (85%), B (90%), C (80%). Tính xác suất điều trị thành công chung.",0.85,0.86,0.865,0.875,B
+"Phần 3 - Câu 45. Bệnh nhân có thể chọn khám gói thường (60%) hoặc gói VIP (40%). Tỷ lệ hài lòng: thường (70%), VIP (95%). Xác suất hài lòng là:",0.79,0.81,0.85,0.87,A
+Phần 3 - Câu 46. Cho bảng tần số: Bảng: Số lần đau đầu (X) | 0 | 1 | 2 | 3 / Số bệnh nhân (f) | 4 | 6 | 8 | 2 Tính kỳ vọng E(X):,1.1,1.2,1.3,1.4,D
+Phần 3 - Câu 47. Cho bảng số liệu về số lần nhập viện: Bảng: Số lần (X) | 1 | 2 | 3 / Số bệnh nhân (f) | 5 | 3 | 2 Tính phương sai:,0.56,0.6,0.7,0.8,B
+Phần 3 - Câu 48. Cho bảng số liệu mức độ đau (X): Bảng: Mức độ (X) | 1 | 2 | 3 | 4 / f | 1 | 3 | 4 | 2 Tính độ lệch chuẩn gần nhất:,0.9,1.1,1.2,1.3,A
+Phần 3 - Câu 49. Cho bảng số liệu số lần tái khám: Bảng: X (số thuốc dùng/ngày) | 0 | 1 | 2 / f | 3 | 5 | 2 Tính kỳ vọng E(X):,0.9,1.0,1.1,1.2,A
+Phần 3 - Câu 50. Cho bảng tần số: Bảng: X (số thuốc dùng/ngày) | 1 | 2 | 3 / f | 2 | 5 | 3 Tính phương sai gần nhất:,0.6,0.7,0.8,0.9,A
